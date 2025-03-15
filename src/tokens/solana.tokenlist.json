@@ -1,10 +1,9 @@
 {
-  "chainId": 101,
-  "address": "АДРЕС_ВАШЕГО_ТОКЕНА",
-  "symbol": "СИМВОЛ",
-  "name": "ИМЯ_ТОКЕНА",
+ "chainId": 101,
+  "address": "FLiVuN1jKXbYPucHfuNgH6BLZ8ah6Yi1Y5orhiNSUwnF",
+  "symbol": "FVPNAi",
+  "name": "Free VPN Ai",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLiVuN1jKXbYPucHfuNgH6BLZ8ah6Yi1Y5orhiNSUwnF
-/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLiVuN1jKXbYPucHfuNgH6BLZ8ah6Yi1Y5orhiNSUwnF/logo.png",
   "tags": ["utility-token"]
 }
